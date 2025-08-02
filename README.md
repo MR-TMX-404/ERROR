@@ -1,4 +1,4 @@
-💥Welcome💥
+💚Welcome💚
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -21,7 +21,7 @@ rm -rf ERROR
 git clone https://github.com/MR-TMX-404/ERROR
 git pull
 cd ERROR
-python TMX.py
+python ERROR.py
 
 ___THIS TOOLS IS PAID AND FREE THERE ARE BOTH.___</br>
 
